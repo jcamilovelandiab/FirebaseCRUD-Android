@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Firebase CRUD</string>
+    <string name="input_first_name">First name</string>
+    <string name="input_last_name">Last name</string>
+    <string name="input_email">Email</string>
+    <string name="input_password">Password</string>
+
+    <string name="action_create">Add</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="label_data">DATA</string>
+    <string name="label_list_of_people">LIST OF PEOPLE</string>
+
+</resources>
