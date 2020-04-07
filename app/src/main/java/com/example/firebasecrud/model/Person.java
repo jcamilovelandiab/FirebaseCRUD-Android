@@ -53,12 +53,9 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
-                "uid='" + uid + '\'' +
-                ", first_name='" + first_name + '\'' +
-                ", last_name='" + last_name + '\'' +
-                ", email='" + email + '\'' +
-                ", password='" + password + '\'' +
-                '}';
+        return " UID: " + uid + "\r\n"+
+                "First Name: " + first_name + "\r\n"+
+                "Last Name: " + last_name + "\r\n"+
+                "Email: " + email + "\r\n";
     }
 }
